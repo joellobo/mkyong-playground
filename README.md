@@ -1,2 +1,4 @@
 # mkyong-playground
 Playing with mkyong examples
+
+http://www.mkyong.com/java8/java-8-lambda-comparator-example/
