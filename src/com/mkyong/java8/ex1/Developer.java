@@ -1,4 +1,4 @@
-package ex1;
+package com.mkyong.java8.ex1;
 
 import java.math.BigDecimal;
 
